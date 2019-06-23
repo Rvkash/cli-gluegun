@@ -1,8 +1,4 @@
-# omni CLI
-
-A CLI for omni.
-
-## Customizing your CLI
+# CLI Gluegun
 
 Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
 
@@ -21,5 +17,5 @@ $ npm publish
 
 # License
 
-MIT - see LICENSE
+MIT - LICENSE
 
